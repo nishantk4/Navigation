@@ -1,0 +1,11 @@
+<mvc:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" xmlns:html="http://www.w3.org/1999/xhtml" controllerName="nav1.nav1.controller.view2">
+	<App id="app">
+		<pages>
+			<Page title="page2">
+				<content>
+				    <Button xmlns="sap.m" text="back" press ="onClick" />
+				</content>
+			</Page>
+		</pages>
+	</App>
+</mvc:View>
